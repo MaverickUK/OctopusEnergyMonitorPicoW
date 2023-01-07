@@ -8,8 +8,9 @@ Displays household energy usage on a Raspberry Pi Pico W via the Octopus Energy 
 This was a quick and dirty project over the Christmas 2022 holiday, so has plenty of scope to be refactored and extended.
 
 ## Quick start
-1. Copy all files to Raspberry Pi Pico W
-2. Open `secrets.py` and enter your Wifi and Octopus Energy details
+1. Flash Pico W using [latest MicroPython firmware](https://micropython.org/download/rp2-pico-w/)
+2. Copy all files to Raspberry Pi Pico W
+3. Open `secrets.py` and enter your Wifi and Octopus Energy details
 
 You can find out the majority of the required Octopus Energy details by visiting the [Octopus Developer dashboard](https://octopus.energy/dashboard/developer/)
 
