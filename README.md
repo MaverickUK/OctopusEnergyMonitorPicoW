@@ -7,6 +7,10 @@ Displays household energy usage on a Raspberry Pi Pico W via the Octopus Energy 
 
 This was a quick and dirty project over the Christmas 2022 holiday, so has plenty of scope to be refactored and extended.
 
+## Hardware required
+- [Raspberry Pi Pico W](https://shop.pimoroni.com/products/raspberry-pi-pico-w?variant=40059369619539)
+- [Pico GFX Pack](https://shop.pimoroni.com/products/pico-gfx-pack?variant=40414469062739)
+
 ## Quick start
 1. Flash Pico W using [latest MicroPython firmware](https://micropython.org/download/rp2-pico-w/)
 2. Copy all files to Raspberry Pi Pico W
