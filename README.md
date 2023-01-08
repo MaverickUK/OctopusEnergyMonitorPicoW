@@ -18,7 +18,7 @@ This was a quick and dirty project over the Christmas 2022 holiday, so has plent
 
 You can find out the majority of the required Octopus Energy details by visiting the [Octopus Developer dashboard](https://octopus.energy/dashboard/developer/)
 
-## Warning
+### Warning
 Currently the code doesn't automatically create the Base64 encoded basic auth header which is held in the `auth_header` value in the `secrets.py` file. You will need to manually create this from your [API auth key](https://octopus.energy/dashboard/developer/) using a service such as [Base64 Encode](https://www.base64encode.org/)
 
 ## Features
